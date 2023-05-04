@@ -1,7 +1,7 @@
 {
   "name": "arraytech/vybessocial-shared",
   "description": "This package shares the models and migrations",
-  "type": "project",
+  "type": "library",
   "license": "MIT",
   "authors": [
     {
@@ -10,20 +10,10 @@
     }
   ],
   "minimum-stability": "stable",
-  "require": {
-    "php": "^7.2|^8.0|^8.1",
-    "illuminate/support": "~6|~7|~8|~9|^10.0"
-  },
+  "require": {},
   "autoload": {
     "psr-4": {
       "VybesSocial\\Shared\\": "src/"
-    }
-  },
-  "extra": {
-    "laravel": {
-      "providers": [
-        "VybesSocial\\Shared\\SharedServiceProvider"
-      ]
     }
   }
 }

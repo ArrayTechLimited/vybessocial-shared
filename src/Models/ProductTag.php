@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Models;
+namespace VybesSocial\Shared\Models;
 
 use Illuminate\Database\Eloquent\Relations\Pivot;
 

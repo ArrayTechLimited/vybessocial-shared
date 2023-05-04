@@ -2,7 +2,7 @@
   "name": "arraytech/vybessocial-shared",
   "description": "This package shares the models and migrations",
   "type": "project",
-  "license": "MIT License",
+  "license": "MIT",
   "authors": [
     {
       "name": "isaactobiloba",

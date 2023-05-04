@@ -1,6 +1,6 @@
 <?php
 
-namespace VybeSocial\Shared;
+namespace VybesSocial\Shared;
 
 use Illuminate\Support\ServiceProvider;
 

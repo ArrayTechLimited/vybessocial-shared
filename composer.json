@@ -22,7 +22,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "VybeSocial\\Shared\\SharedServiceProvider"
+        "VybesSocial\\Shared\\SharedServiceProvider"
       ]
     }
   }
